@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm AZKA FATHIYA</h1>
+<h3 align="center">an informatics engineering student at Bengkulu University</h3>
 
 - 📖I’m currently student at **Bengkulu univesity**
 
